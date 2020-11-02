@@ -15,6 +15,7 @@
 		6C3B3155252F39530034C9D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C3B3153252F39530034C9D0 /* LaunchScreen.storyboard */; };
 		6C3B3160252F39530034C9D0 /* NavigationBARTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C3B315F252F39530034C9D0 /* NavigationBARTests.swift */; };
 		6C3B316B252F39530034C9D0 /* NavigationBARUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C3B316A252F39530034C9D0 /* NavigationBARUITests.swift */; };
+		6C3B317C252F39B40034C9D0 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C3B317B252F39B40034C9D0 /* DetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		6C3B3166252F39530034C9D0 /* NavigationBARUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NavigationBARUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6C3B316A252F39530034C9D0 /* NavigationBARUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBARUITests.swift; sourceTree = "<group>"; };
 		6C3B316C252F39530034C9D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6C3B317B252F39B40034C9D0 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				6C3B3148252F39530034C9D0 /* AppDelegate.swift */,
 				6C3B314A252F39530034C9D0 /* SceneDelegate.swift */,
 				6C3B314C252F39530034C9D0 /* ViewController.swift */,
+				6C3B317B252F39B40034C9D0 /* DetailsViewController.swift */,
 				6C3B314E252F39530034C9D0 /* Main.storyboard */,
 				6C3B3151252F39530034C9D0 /* Assets.xcassets */,
 				6C3B3153252F39530034C9D0 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				6C3B314D252F39530034C9D0 /* ViewController.swift in Sources */,
 				6C3B3149252F39530034C9D0 /* AppDelegate.swift in Sources */,
 				6C3B314B252F39530034C9D0 /* SceneDelegate.swift in Sources */,
+				6C3B317C252F39B40034C9D0 /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
